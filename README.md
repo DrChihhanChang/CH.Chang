@@ -1,1 +1,4 @@
 # CH.Chang
+"The only professional in Taiwan with complete experience in design, development, and testing of L0 to L4 automated driving systems"
+
+Chih-Han Chang was born in Taipei, Taiwan, R.O.C., in 1979. He received the B.S. and Ph.D. degree in electrical engineering from the Tamkang University, Taiwan, R.O.C., in 2001, and 2007, respectively. In 2007, he joined the Air force as a reserve officer. Since 2008, he had been an engineer at Hua-chuang Automobile Information Technical Center Co. (HAITEC) in the Yulon Group, Taiwan. He was a manager who is in charge of the Advanced Driver Assistance System (ADAS) since 2013. He was also an adjunct assistant professor with the National Taipei University of Education, Taipei, Taiwan. He was a senior manager at ACER from 2018 to 2020. He is currently a technical directer in Wistron. His interests cover the design and analysis of sensor fusion, ADAS/ADS and infotainment system. 
